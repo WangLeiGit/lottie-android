@@ -1,0 +1,1 @@
+复杂动画的实现，设计师用Adobe旗下的After Effects(简称AE)做个动画出来，后用插件Bodymovin可以根据AE上动画文件到处json文件，在项目引用lottie开源库，把json文件放在app/src/main/assets目录下引用就ok了，也可以放在后台远程更新动画
